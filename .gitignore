@@ -1,0 +1,6 @@
+extracted*/
+lifesignals/
+filtered*
+Extracted_data
+technical_validation/
+Pipfile.lock
