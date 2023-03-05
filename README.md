@@ -33,3 +33,9 @@ In order to run the project, dataset downloaded and exported into **./Extracted_
 ![classification report](./img/classification_report.png)
 ![confusion matrix](./img/confusion_matrix.png)
 ![ROC](./img/ROC.png)
+
+
+------
+## AUDIO FEATURES IN THIS PROJECT
+------
+![audio features](./img/audio_features.png)
