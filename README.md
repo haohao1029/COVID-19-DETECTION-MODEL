@@ -2,7 +2,7 @@
 
 Dataset using in this project: https://github.com/iiscleap/Coswara-Data
 
-In order to run the project, dataset downloaded and exported into **./Extracted_data**
+In order to run the project, dataset should be downloaded and exported into **./Extracted_data**
 
 --------
 ## TECH STACK
