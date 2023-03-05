@@ -31,7 +31,9 @@ In order to run the project, dataset should be downloaded and exported into **./
 ## MODEL PERFORMANCE
 -------
 ![classification report](./img/classification_report.png)
+
 ![confusion matrix](./img/confusion_matrix.png)
+
 ![ROC](./img/ROC.png)
 
 
