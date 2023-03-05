@@ -21,10 +21,10 @@ In order to run the project, dataset should be downloaded and exported into **./
 ## FILE RUN STEP
 ------
 1. initial_preprocessing.ipynb
-2. Data_cleaning
-3. data_augmentation_under_sampling
-4. extract_audio_features
-5. TPOT_generator
+2. data_cleaning.ipynb
+3. data_augmentation_under_sampling.ipynb
+4. extract_audio_features.ipynb
+5. TPOT_generator.ipynb
 6. covid_19_detection_pipeline.ipynb
 
 -------
